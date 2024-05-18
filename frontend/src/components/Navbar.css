@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(23, 46, 81);
+    color:white;
+    font-size: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color: rgb(209, 117, 117);
+
+}
+
+.profile-pic{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+}

@@ -1,0 +1,20 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #c7dece; /* Set background color */
+  }
+  
+  .login-form {
+    width: 300px;
+    padding: 20px;
+    background-color: rgb(200, 142, 142);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add shadow */
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
